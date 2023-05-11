@@ -1,0 +1,21 @@
+:root {
+    --mainColor:#15202B;
+    --secondaryColor:#192734;
+    
+   --mainText:#fff;
+   --secondaryText:#eeeeee;
+
+   --borderColor:#164D56;
+
+   --shadow: rgb(228, 216, 113);
+   --resumeColor: blue;
+
+   --buttonColor: #17a2b8;
+
+   --bacg_my_work: rgb(68 68 63);
+
+}
+
+.my_work {
+    background-color: var( --secondaryColor);
+}
